@@ -17,7 +17,7 @@ Usage of abbriviate.py: `python abbriviate.py library.bib`
 I also write a python code extend.py to do the reverse thing, i.e., extending the abbreviated names into their full form. As a result, each time you only need to update one of the bib files.
 
 ### (In Chinese)
-一句话描述：快速生成一个bib文件，里面包含你想要的所有参考文献的条目，把文件中的期刊全名替换成官方缩写名，或者反之。
+一句话描述：快速生成一个bib文件，里面包含你想要的所有参考文献的条目，把文件中的期刊全名替换成官方缩写名，或者反之。更多信息见知乎文章：https://zhuanlan.zhihu.com/p/503375837。
 
 Latex提供了很方便的文献引用。你需要把你想引用的文献的信息（题目，期刊，作者，年份，等等）存入一个bib文件。每篇文献对应一个bib item，这些item都可以从谷歌学术上下载到。
 
